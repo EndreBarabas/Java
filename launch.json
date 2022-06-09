@@ -1,0 +1,49 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Classpractice",
+      "request": "launch",
+      "mainClass": "Classpractice",
+      "projectName": "Projects_fc72c644"
+    },
+    {
+      "type": "java",
+      "name": "Launch Date",
+      "request": "launch",
+      "mainClass": "Date",
+      "projectName": "Projects_fc72c644"
+    },
+    {
+      "type": "java",
+      "name": "Launch Interface",
+      "request": "launch",
+      "mainClass": "Interface",
+      "projectName": "Projects_fc72c644"
+    },
+    {
+      "type": "java",
+      "name": "Launch Typing",
+      "request": "launch",
+      "mainClass": "Typing",
+      "projectName": "Projects_fc72c644"
+    },
+    {
+      "type": "java",
+      "name": "Launch Userinput",
+      "request": "launch",
+      "mainClass": "Userinput",
+      "projectName": "Projects_fc72c644"
+    }
+  ]
+}
